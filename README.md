@@ -1,16 +1,7 @@
-# flappy_bird_clone
+# Flappy Bird Clone v1
 
-A new Flutter project.
+Simple Flappy Bird Clone v1
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Flappy_Bird_Clone_v1/assets/146417248/67e74d1b-9439-4147-8e54-bc60e2bd17bc)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Flappy_Bird_Clone_v1/assets/146417248/1cacc1e4-b1b4-4936-af5b-16cad93e14ff)
